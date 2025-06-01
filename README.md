@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D1L5T4R
+- 👋 Hi, I’m @Diler
 - 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning DevSecOps, Python and Terraform
 - 💞️ I’m looking to collaborate on ...
